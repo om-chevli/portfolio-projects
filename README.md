@@ -18,6 +18,8 @@ Requires Java 21 and Maven 3.9+.
 mvn verify
 ```
 
+Verified 2026-11-04: `mvn test` — **24 tests, 0 failures** across the three modules (plus TypeScript typechecks for both frontends).
+
 Every project also runs standalone with **no external services**: databases
 and message brokers sit behind interfaces with in-memory implementations as
 the default, and the real ones (MongoDB, Redis) activate with a Spring
