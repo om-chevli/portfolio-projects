@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: api-platform
+server:
+  port: 8082
+app:
+  internal-api-key: ${INTERNAL_API_KEY:dev-internal-key}
+  public-rate-limit: ${PUBLIC_RATE_LIMIT:100}
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html

@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: document-collaboration-engine
+  # No MongoDB autoconfiguration is forced: the default store is in-memory.
+  # With --spring.profiles.active=mongo, set spring.data.mongodb.uri as well.
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/docengine}
+server:
+  port: 8081
