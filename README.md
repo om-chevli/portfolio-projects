@@ -1,6 +1,6 @@
 # Portfolio Projects — Om Chevli
 
-Three backend projects built to demonstrate the stack in Agilno's Senior Java
+Three backend projects built to demonstrate the stack in Senior Java
 Developer posting: Spring Boot, Spring Security, REST API design, MongoDB,
 WebSockets, Redis, JUnit/Mockito, and React + TypeScript clients.
 
