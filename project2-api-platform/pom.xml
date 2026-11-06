@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.omchevli</groupId>
-        <artifactId>agilno-portfolio-projects</artifactId>
+        <artifactId>portfolio-projects</artifactId>
         <version>1.0.0</version>
     </parent>
 

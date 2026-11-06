@@ -12,10 +12,10 @@
     </parent>
 
     <groupId>com.omchevli</groupId>
-    <artifactId>agilno-portfolio-projects</artifactId>
+    <artifactId>portfolio-projects</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
-    <name>Agilno Portfolio Projects</name>
+    <name>Portfolio Projects</name>
     <description>Three portfolio projects built by Om Chevli: document collaboration engine, public/internal API platform, multi-tenant notification service.</description>
 
     <modules>
